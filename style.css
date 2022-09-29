@@ -19,7 +19,7 @@ body {
   background-image: linear-gradient(
     to bottom right,
     #5f2d69 0%,
-    #0d68dec0 100%
+    rgba(38, 110, 210, 0.75) 100%
   );
   display: flex;
   align-items: center;
